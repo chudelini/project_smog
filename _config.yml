@@ -1,0 +1,12 @@
+title: Projekt Smog
+description: Research i projekt postępowania dotyczącego spalania odpadów
+theme: jekyll-theme-cayman
+lang: pl
+url: https://chudelini.github.io
+baseurl: /project_smog
+show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - work
